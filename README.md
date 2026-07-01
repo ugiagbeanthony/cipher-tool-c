@@ -1,4 +1,4 @@
-# cipher-tool-c
+# Cipher-tool-c
 A safe substitution cipher implemented in C with strict file‑handling rules to prevent accidental overwrites. Supports encryption and decryption using a validated 26‑character key as a command-line argument.
 
 ## Usage
@@ -20,5 +20,5 @@ Example:
 - Handles uppercase and lowercase correctly
 - Safe file handling (binary mode)
 
-## future improvements
+## Future improvements
 - support for same-name file overwrite
