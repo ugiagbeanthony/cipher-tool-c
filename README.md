@@ -19,3 +19,6 @@ Example:
 - Optional deletion of original file after processing
 - Handles uppercase and lowercase correctly
 - Safe file handling (binary mode)
+
+## future improvements
+- support for same-name file overwrite
